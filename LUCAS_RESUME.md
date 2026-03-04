@@ -4,15 +4,11 @@
 
 ## 簡歷
 
-具備 Web 前後端開發能力，主要技術棧為 Laravel/Vue.js/Tailwind CSS
+全端開發者，擅長以 Laravel / Vue.js / Tailwind CSS 獨立開發完整 Web 應用，擁有從零建構網站和發布開源套件的經驗。
 
-自學程式設計出身，有獨立開發完整 Web 應用程式的實作經驗，並有多個 Laravel 及 Vue.js 開源套件的開發經歷。
-
-喜歡漂亮的介面和優雅的程式碼，沉迷於打造能讓開發更舒適的工具，同時也熱衷於分享自己的學習與開發經驗。
-
-最近正在學習使用 Claude Code 等 AI Agent 來協作開發，希望未來工作上能夠結合 AI Agent 來提升開發效率。
-
-目前正在尋找 Frontend / Backend Engineer 的遠端工作職缺，歡迎聯繫我！
+- 獨立以 Vue.js / Nuxt 開發多個網站，涵蓋個人專案與商業接案
+- 開發 Headless UI Float 開源套件，累積 GitHub ★350+ Stars、npm 週下載量 30,000+
+- 具備多個 Laravel 套件開發與發布經驗（金流串接、多步驟表單等）
 
 GitHub：@ycs77
 
@@ -39,15 +35,13 @@ GitHub：@ycs77
 
 ## 專案與作品集
 
-### 星星的筆記．Lucas
+### Headless UI Float
 
-![](https://star-note-lucas.me/images/og-image-20230331.jpg)
+![](https://headlessui-float.vercel.app/og-image.png)
 
-連結：https://star-note-lucas.me/
+連結：https://headlessui-float.vercel.app/
 
-使用 Astro 建立的個人部落格網站
-
-偶而會發布一些程式或非程式的筆記文章
+開發 Headless UI Float 開源套件，為 Headless UI 元件整合浮動定位功能，支援 Vue.js 與 React，累積 GitHub ★350+ Stars、npm 週下載量 30,000+
 
 ### ycsplayer
 
@@ -55,26 +49,23 @@ GitHub：@ycs77
 
 連結：https://ycsplayer-demo.fly.dev/
 
-**線上影音點播包廂**<br>
-**跟遠端的朋友們一起同步觀賞影片或聽歌~✨**
+- 獨立開發全端線上影音同步點播系統，使用 Laravel、Vue.js、Tailwind CSS
+- 透過 Pusher (WebSocket) 搭配 Laravel Echo 實現多人即時同步播放
+- 客製化 Video.js 播放器，同時支援 HTML5 和 YouTube 的多人同步播放功能
+- 功能包含：會員註冊/登入、無密碼登入（透過 Email 寄送一次性登入連結）、房間管理
 
-使用 Laravel、Vue.js、Tailwind CSS 開發的全端線上影音點播應用。
+### 星星的筆記．Lucas
 
-### Headless UI Float
+![](https://star-note-lucas.me/images/og-image-20230331.jpg)
 
-![](https://headlessui-float.vercel.app/og-image.png)
+連結：https://star-note-lucas.me/
 
-連結：https://headlessui-float.vercel.app/
-
-**Headless UI Float | 輕鬆浮動定位 Headless UI 元件**
-
-讓 Headless UI 元件整合浮動定位功能的套件，支援 Vue.js 和 React
-
-### Laravel ezPay Invoice
-
-連結：https://github.com/Agriweather/laravel-ezpay-invoice
-
-適用於 Laravel 的 ezPay 電子發票 API 套件
+- 使用 Astro 建立的個人技術部落格，使用 Astro 的靜態生成功能以加快網頁載入速度
+- 不定期發布前後端技術筆記，近期文章主題包含：
+  - Inertia v2.2 無限滾動新功能介紹
+  - 部署 Astro 專案到低配置 Ubuntu 伺服器的設定技巧
+  - Astro 排除部分路徑不檢查 CSRF Origin 的作法
+  - 在 Laravel Forge 配置的服務器上用 Docker 部署 Vite 專案的設定步驟
 
 ## 興趣
 
