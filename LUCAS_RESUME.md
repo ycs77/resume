@@ -4,11 +4,11 @@
 
 ## 簡歷
 
-全端開發者，擅長以 Laravel / Vue.js / Tailwind CSS 獨立開發完整 Web 應用，擁有從零建構網站和發布開源套件的經驗。
+哈囉~ 我是楊晨信 (Lucas)，一位喜歡動手做東西的全端開發者，專注於 Laravel/Vue.js/Tailwind CSS，具備全端網站開發和開源套件發布的經驗。
 
-- 獨立以 Vue.js / Nuxt 開發多個網站，涵蓋個人專案與商業接案
-- 開發 Headless UI Float 開源套件，累積 GitHub ★350+ Stars、npm 週下載量 30,000+
-- 具備多個 Laravel 套件開發與發布經驗（金流串接、多步驟表單等）
+在小時候，因緣際會之下從家中書櫃翻出了兩本程式的書，開啟了我的程式之路。慢慢從開發個人專案、開發開源套件到可以商業接案，也喜歡做各種小工具來解決開發過程中遇到的問題，看到作品從無到有的過程讓我非常有成就感。
+
+學習程式的過程有時會踩到不同的坑，解決完之後會有一種想要分享出來的衝動，於是我就建立了個人技術部落格「星星的筆記．Lucas」為了能幫助到和我有相同問題的人，同時也相信持續學習與實踐是成長最好的方式。
 
 GitHub：@ycs77
 
@@ -45,7 +45,10 @@ GitHub：@ycs77
 
 連結：https://headlessui-float.vercel.app/
 
-開發 Headless UI Float 開源套件，為 Headless UI 元件整合浮動定位功能，支援 Vue.js 與 React，累積 GitHub ★350+ Stars、npm 週下載量 30,000+
+- 開發 Headless UI Float 開源套件，為 Headless UI 元件整合浮動定位功能
+- 支援 Vue.js 與 React 兩個框架
+- 從需求發想、API 設計、程式開發、撰寫文件到發布維護，皆獨立完成
+- 累積 GitHub ★350+ Stars、npm 週下載量 30,000+
 
 ### ycsplayer
 
@@ -65,12 +68,8 @@ GitHub：@ycs77
 
 連結：https://star-note-lucas.me/
 
-- 使用 Astro 建立的個人技術部落格，使用 Astro 的靜態生成功能以加快網頁載入速度
-- 不定期發布前後端技術筆記，近期文章主題包含：
-  - Inertia v2.2 無限滾動新功能介紹
-  - 部署 Astro 專案到低配置 Ubuntu 伺服器的設定技巧
-  - Astro 排除部分路徑不檢查 CSRF Origin 的作法
-  - 在 Laravel Forge 配置的服務器上用 Docker 部署 Vite 專案的設定步驟
+- 使用 Astro 建立的個人技術部落格，採用靜態生成優化載入速度
+- 不定時撰寫前後端技術筆記，主題涵蓋 Laravel、Vue.js、部署實務等
 
 ## 興趣
 
