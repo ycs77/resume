@@ -18,7 +18,9 @@ GitHub：@ycs77
 
 ## 專業技能
 
-### Frontend Development (中階)
+### Frontend Development
+
+- 熟練度：精通
 
 熟悉 Vue.js、TypeScript 與 Tailwind CSS，曾以此技術組合開發多個個人專案，能夠獨立完成元件設計與響應式排版。同時有 Headless UI Float 等開源套件的開發經驗。
 
@@ -26,7 +28,9 @@ GitHub：@ycs77
 - TypeScript
 - Tailwind CSS
 
-### Backend Development (中階)
+### Backend Development
+
+- 熟練度：中階
 
 熟悉 Laravel 框架，能夠獨立開發全端 Web 應用的後端邏輯。有多個 Laravel 套件的開發經驗，包含金流串接（藍新金流）、多步驟表單等應用場景，並發布至 Packagist。
 
@@ -49,7 +53,8 @@ GitHub：@ycs77
 
 連結：https://ycsplayer-demo.fly.dev/
 
-- 獨立開發全端線上影音同步點播系統，使用 Laravel、Vue.js、Tailwind CSS
+- 為了可以和在遠地的朋友一起線上看影片/聽音樂，因此開發了線上影音同步點播系統
+- 開發框架使用 Laravel、Vue.js、Tailwind CSS
 - 透過 Pusher (WebSocket) 搭配 Laravel Echo 實現多人即時同步播放
 - 客製化 Video.js 播放器，同時支援 HTML5 和 YouTube 的多人同步播放功能
 - 功能包含：會員註冊/登入、無密碼登入（透過 Email 寄送一次性登入連結）、房間管理
