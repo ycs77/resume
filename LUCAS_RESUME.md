@@ -50,6 +50,14 @@ GitHub：@ycs77
 - 從需求發想、API 設計、程式開發、撰寫文件到發布維護，皆獨立完成
 - 累積 GitHub ★350+ Stars、npm 週下載量 30,000+
 
+### Dentalk 牙醫資訊平台
+
+連結：https://www.dentalk.com.tw
+
+- 接案專案，負責牙科專屬平台的前端開發，使用 Astro、Vue.js、Tailwind CSS 建構
+- 開發模組橫跨課程、論壇、商城、求職等多個區塊，具備完整的中小平台開發經驗
+- 與設計師協作，將 Figma 設計稿轉換為真實的前端畫面
+
 ### ycsplayer
 
 ![](https://raw.githubusercontent.com/ycs77/ycsplayer/refs/heads/main/docs/screenshot-20231016.png)
