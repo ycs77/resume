@@ -61,14 +61,14 @@ GitHub：@ycs77
 
 - 開發 Headless UI Float 開源套件，為 Headless UI 元件整合浮動定位功能
 - 支援 Vue.js 與 React 兩個框架
-- 從需求發想、API 設計、程式開發、撰寫文件到發布維護，皆獨立完成
+- 獨立完成從需求發想、元件設計、程式開發、撰寫文件到發布維護的完整流程
 - 累積 GitHub ★350+ Stars、npm 週下載量 30,000+
 
 ### Dentalk 牙醫資訊平台
 
 連結：https://www.dentalk.com.tw
 
-- 接案專案，負責牙科專屬平台的前端開發，使用 Astro、Vue.js、Tailwind CSS 建構
+- 參與商業接案，負責牙科專屬平台的前端開發，使用 Astro、Vue.js、Tailwind CSS 建構
 - 開發模組橫跨課程、論壇、商城、求職等多個區塊，具備完整的中小平台開發經驗
 - 與設計師協作，將 Figma 設計稿轉換為真實的前端畫面
 
@@ -78,11 +78,11 @@ GitHub：@ycs77
 
 連結：https://ycsplayer-demo.fly.dev/
 
-- 線上影音同步點播平台，支援多人即時同步觀看影片與聽音樂
-- 開發框架使用 Laravel、Vue.js、Tailwind CSS
+- 開發線上影音同步點播系統，支援多人即時同步觀看影片與聽音樂
+- 使用 Laravel、Vue.js、Tailwind CSS 開發
 - 透過 Pusher (WebSocket) 搭配 Laravel Echo 實現多人即時同步播放
 - 客製化 Video.js 播放器，同時支援 HTML5 和 YouTube 的多人同步播放功能
-- 功能包含：會員註冊/登入、無密碼登入（透過 Email 寄送一次性登入連結）、房間管理
+- 實作會員註冊/登入、無密碼登入（透過 Email 寄送一次性登入連結）、房間管理等功能
 
 ### 星星的筆記．Lucas
 
@@ -90,7 +90,7 @@ GitHub：@ycs77
 
 連結：https://star-note-lucas.me/
 
-- 使用 Astro 建立的個人技術部落格，採用靜態生成優化載入速度
+- 使用 Astro 建立個人技術部落格，採用靜態生成優化載入速度
 - 不定時撰寫前後端技術筆記，主題涵蓋 Laravel、Vue.js、部署實務等
 
 ## 興趣
