@@ -22,11 +22,13 @@ GitHub：@ycs77
 
 - 熟練度：精通
 
-熟悉 Vue.js、TypeScript 與 Tailwind CSS，曾以此技術組合開發多個個人專案，能夠獨立完成元件設計與響應式排版。同時有 Headless UI Float 等開源套件的開發經驗。
+熟悉 Vue.js、TypeScript 與 Tailwind CSS，曾以此技術組合開發多個個人專案，能夠獨立完成元件設計與響應式排版。使用 Vite 作為前端建構工具，同時有 Headless UI Float 等開源套件的開發經驗。
 
 - Vue.js
+- JavaScript
 - TypeScript
 - Tailwind CSS
+- Vite
 
 ### Backend Development
 
@@ -36,6 +38,18 @@ GitHub：@ycs77
 
 - PHP
 - Laravel
+- MySQL
+
+### Development Tools
+
+- 熟練度：中階
+
+熟悉 Git 版本控制與 GitHub 協作流程。有使用過 GitHub Actions 建置 CI/CD 自動化流程。以及與設計師協作、依照 Figma 設計稿切版的實務經驗。
+
+- Git
+- GitHub
+- CI/CD
+- Figma
 
 ## 專案與作品集
 
