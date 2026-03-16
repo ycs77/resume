@@ -78,7 +78,7 @@ GitHub：@ycs77
 
 連結：https://ycsplayer-demo.fly.dev/
 
-- 為了可以和在遠地的朋友一起線上看影片/聽音樂，因此開發了線上影音同步點播系統
+- 線上影音同步點播平台，支援多人即時同步觀看影片與聽音樂
 - 開發框架使用 Laravel、Vue.js、Tailwind CSS
 - 透過 Pusher (WebSocket) 搭配 Laravel Echo 實現多人即時同步播放
 - 客製化 Video.js 播放器，同時支援 HTML5 和 YouTube 的多人同步播放功能
