@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/add-job.js *)",
+      "Bash(node scripts/generate-tracker.js)",
+      "Bash(node scripts/list-jobs.js)",
+      "Bash(node scripts/update-job.js)"
+    ]
+  }
+}

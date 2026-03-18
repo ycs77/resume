@@ -68,7 +68,8 @@
 ### 檔案慣例
 
 - 存放於 `cover-letters/` 資料夾
-- 檔名格式：`{日期}-{公司名稱}-{職位}.md`（例如：`2026-01-01-google-frontend-engineer.md`）
+- 檔名與職缺 id 一致：`{id}.md`（例如：`20260318143000-oakmega-frontend-engineer.md`）
+- 由 `scripts/add-job.js` 自動從模板產生
 
 ### 注意事項
 
@@ -102,3 +103,22 @@
 - 提供修改前後對照範例
 - 指出亮點與待改進處
 - 語氣鼓勵且務實
+
+## 求職追蹤工作流程
+
+### 狀態轉換規則
+
+```
+pending → applied, applied_ghosted
+applied → interview, applied_ghosted
+interview → interviewed, rejected, interview_ghosted
+interviewed → offer, rejected, interview_ghosted
+```
+
+### 公司名稱命名規則（用於 id slug）
+
+擷取簡短的公司名稱，有英文名時優先用英文小寫：
+
+- 「OakMega 大橡科技」→ `oakmega`
+- 「鼎新電腦」→ `鼎新電腦`
+- 「台灣大哥大」→ `台灣大哥大`
