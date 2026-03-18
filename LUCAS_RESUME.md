@@ -1,14 +1,15 @@
-# 楊晨信 (Lucas Yang)
+# 楊晨信 (Lucas Yang) - Yourator 履歷版本
 
 個人網站：[星星的筆記．Lucas](https://star-note-lucas.me/)
 
 ## 簡歷
 
-哈囉~ 我是楊晨信 (Lucas)，一位喜歡動手做東西的全端開發者，專注於 Laravel/Vue.js/Tailwind CSS，具備全端網站開發和開源套件發布的經驗。
+我是楊晨信 (Lucas)，一位自學出身的全端開發者，專注於 Vue.js 與 Laravel，重視程式碼品質與使用者體驗。
 
-在小時候，因緣際會之下從家中書櫃翻出了兩本程式的書，開啟了我的程式之路。慢慢從開發個人專案、開發開源套件到可以商業接案，也喜歡做各種小工具來解決開發過程中遇到的問題，看到作品從無到有的過程讓我非常有成就感。
-
-學習程式的過程有時會踩到不同的坑，解決完之後會有一種想要分享出來的衝動，於是我就建立了個人技術部落格「星星的筆記．Lucas」，為了能幫助到和我有相同問題的人，同時也相信持續學習與實踐是成長最好的方式。
+- 獨立開發開源套件 Headless UI Float，累積 GitHub 350+ Stars、npm 週下載量 30,000+
+- 參與商業接案，負責中小型平台的前端架構與開發
+- 經營技術部落格「星星的筆記．Lucas」，持續記錄與分享所學
+- 善用 AI 工具來提升工作效率
 
 GitHub：@ycs77
 
@@ -51,6 +52,16 @@ GitHub：@ycs77
 - CI/CD
 - Figma
 
+### AI-Assisted Development
+
+- 熟練度：中階
+
+具備一年的 AI 輔助開發經驗，熟悉運用 Claude Code 與 GitHub Copilot 作為主要開發工具，有效提升開發效率。曾獨立開發 OpenAPI MCP 伺服器，優化 AI 串接後端 API 的流程，應用於 Dentalk 專案，使前端開發速度提升 50%。
+
+- Claude Code
+- GitHub Copilot
+- MCP Server
+
 ## 專案與作品集
 
 ### Headless UI Float
@@ -78,7 +89,7 @@ GitHub：@ycs77
 
 連結：https://ycsplayer-demo.fly.dev/
 
-- 開發線上影音同步點播系統，支援多人即時同步觀看影片與聽音樂
+- 為了與遠端朋友即時同步觀看影片的需求，獨立開發線上影音同步點播系統
 - 使用 Laravel、Vue.js、Tailwind CSS 開發
 - 透過 Pusher (WebSocket) 搭配 Laravel Echo 實現多人即時同步播放
 - 客製化 Video.js 播放器，同時支援 HTML5 和 YouTube 的多人同步播放功能
