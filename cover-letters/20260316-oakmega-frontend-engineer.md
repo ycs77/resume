@@ -1,5 +1,3 @@
-# 2026/03/16 OakMega 大橡科技
-
 OakMega 大橡科技 您好：
 
 我是 Lucas Yang (楊晨信)，畢業於國立空中大學管理與資訊學系。我在 Yourator 上看到貴公司 Frontend Engineer 的職缺，對於 Social CRM 產品的前端開發很感興趣，職缺所要求的 Vue 3 與 TypeScript 也正好是我最熟悉的技術棧，因此前來應徵。
