@@ -56,7 +56,7 @@ GitHub：@ycs77
 
 - 熟練度：中階
 
-具備一年的 AI 輔助開發經驗，熟悉運用 Claude Code 與 GitHub Copilot 作為主要開發工具，有效提升開發效率。曾獨立開發 OpenAPI MCP 伺服器，優化 AI 串接後端 API 的流程，應用於 Dentalk 專案，使前端開發速度提升 50%。
+具備一年的 AI 輔助開發經驗，熟悉運用 Claude Code 與 GitHub Copilot 作為主要開發工具，有效提升開發效率。曾開發 MCP Server 「apifable」，優化 AI 串接後端 API 的流程，應用於 Dentalk 專案，使前端開發速度提升 50%。
 
 - Claude Code
 - GitHub Copilot
@@ -82,6 +82,14 @@ GitHub：@ycs77
 - 參與商業接案，負責牙科專屬平台的前端開發，使用 Astro、Vue.js、Tailwind CSS 建構
 - 開發模組橫跨課程、論壇、商城、求職等多個區塊，具備完整的中小平台開發經驗
 - 與設計師協作，將 Figma 設計稿轉換為真實的前端畫面
+
+### apifable
+
+連結：https://github.com/ycs77/apifable
+
+- 使用 Claude Code 開發 apifable 開源 MCP Server，讓 AI Agent 能依據 OpenAPI 規格，更高效率地完成串接後端 API 功能
+- 支援 OpenAPI 3.0 / 3.1，提供 API 結構探索與 TypeScript 型別自動生成功能
+- 實際應用於 Dentalk 專案，使前端 API 串接開發速度提升 50%
 
 ### ycsPlayer
 
